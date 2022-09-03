@@ -1,0 +1,7 @@
+Crt + Shift + Alt + mũi tên lên: chọn nhiều dòng
+Ctrl + L : chọn 1 hàng 
+Alt + Shift + mũi tên xuống : nhân bản đoạn code đang chọn xuống dưới 
+<span> là thẻ đánh dấu 1 từ hoặc đoạn văn mà không làm ảnh hưởng đến ý nghĩa </span>(hay dùng)
+<sub>thẻ chữ nhỏ dưới chân</sub>
+<sup>thẻ chữ to phía trên</sup>
+<blockquote>trích dẫn ,copy</blockquote>(tránh bị bản quyền)
